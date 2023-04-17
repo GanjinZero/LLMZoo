@@ -75,6 +75,7 @@
 | Vicuna                        | LLaMA    |    7/13B |                 ✅ |                ✅ |               en |                           ❌ |                   70K, multi |     03/13/23 |
 | Koala                         | LLaMA    |      13B |                 ✅ |                ✅ |               en |                    355K, en |                     117K, en |     04/03/23 |
 | BAIZE                         | LLaMA    | 7/13/30B |                 ✅ |                ✅ |               en |                           ❌ |                   111.5K, en |     04/04/23 |
+| Wombat                        | LLaMA    |       7B |                 ✅ |                ✅ |               en |                     46K, en |                            ❌ |     04/13/23 |
 | Phoenix (Ours)                | BLOOMZ   |       7B |                 ✅ |                ✅ |            multi |                         40+ |                          40+ |     04/08/23 |
 | Latin Phoenix: Chimera (Ours) | LLaMA    |    7/13B |                 ✅ |                ✅ |    multi (Latin) |                       Latin |                        Latin |     04/08/23 |
 
